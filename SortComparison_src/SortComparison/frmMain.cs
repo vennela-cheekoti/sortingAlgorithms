@@ -31,7 +31,8 @@ namespace SortComparison
         {
             this.tbSamples.Maximum = 600;
             this.tbSamples.Value = 500;
-
+            this.cboAlg1.SelectedIndex=3;
+            this.cboAlg2.SelectedIndex=12;
 
         }
 
