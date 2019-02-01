@@ -29,6 +29,9 @@ namespace SortComparison
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            this.tbSamples.Maximum = 600;
+            this.tbSamples.Value = 500;
+
 
         }
 
