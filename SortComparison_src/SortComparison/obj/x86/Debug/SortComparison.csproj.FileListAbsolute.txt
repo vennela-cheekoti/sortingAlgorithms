@@ -21,3 +21,14 @@ C:\Users\s533619\Documents\44663\sortingAlgorithms\SortComparison_src\SortCompar
 C:\Users\s533619\Documents\44663\sortingAlgorithms\SortComparison_src\SortComparison\bin\Debug\SortComparison.pdb
 C:\Users\s533619\Documents\44663\sortingAlgorithms\SortComparison_src\SortComparison\bin\Debug\Gif.Components.dll
 C:\Users\s533619\Documents\44663\sortingAlgorithms\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
+C:\Users\S533623\Documents\44663\sortingAlgorithms\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csprojAssemblyReference.cache
+C:\Users\S533623\Documents\44663\sortingAlgorithms\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\Users\S533623\Documents\44663\sortingAlgorithms\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\Users\S533623\Documents\44663\sortingAlgorithms\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\Users\S533623\Documents\44663\sortingAlgorithms\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\Users\S533623\Documents\44663\sortingAlgorithms\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.exe
+C:\Users\S533623\Documents\44663\sortingAlgorithms\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.pdb
+C:\Users\S533623\Documents\44663\sortingAlgorithms\SortComparison_src\SortComparison\bin\Debug\SortComparison.exe
+C:\Users\S533623\Documents\44663\sortingAlgorithms\SortComparison_src\SortComparison\bin\Debug\SortComparison.pdb
+C:\Users\S533623\Documents\44663\sortingAlgorithms\SortComparison_src\SortComparison\bin\Debug\Gif.Components.dll
+C:\Users\S533623\Documents\44663\sortingAlgorithms\SortComparison_src\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete

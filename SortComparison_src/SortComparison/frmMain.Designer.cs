@@ -226,7 +226,7 @@
             this.txtOutputFolder.Name = "txtOutputFolder";
             this.txtOutputFolder.Size = new System.Drawing.Size(215, 20);
             this.txtOutputFolder.TabIndex = 16;
-            this.txtOutputFolder.Text = "E:\\Sort";
+            this.txtOutputFolder.Text = this.InitializeOutputFolder();
             // 
             // label4
             // 
