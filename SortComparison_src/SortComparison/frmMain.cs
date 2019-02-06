@@ -29,8 +29,8 @@ namespace SortComparison
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.tbSamples.Maximum = 600;
-            this.tbSamples.Value = 500;
+            this.tbSamples.Maximum = 100;
+            this.tbSamples.Value = 50;
             this.cboAlg1.SelectedIndex=3;
             this.cboAlg2.SelectedIndex=12;
             this.cmdSort.BackColor=Color.Blue;
