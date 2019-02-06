@@ -11,4 +11,5 @@
 <p>10) InitializeOutputFolder() moves the output screens to output folder.</p>
 <p>11)this.cmdShuffle is a window form button which is used to shuffle samples.</p>
 <p>12)this.cmdSort is used to sort the sort algorithms.</p>
-<p>13)we have changed back color for picturebox, combobox and shuffle button.</p>
+<p>13)we have changed back color for picturebox, combobox, shuffle button and txtOutputFolder.</p>
+
