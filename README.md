@@ -5,7 +5,7 @@
 <p>3) The name of the code file that displays main form is "frmMain.cs" file.</p>
 <p>4)The main form constructor calls InitializeComponent() method.</p>
 <p>5)The main form is derived from static class Program().</p>
-<p>6)</p>this.tbSamples.Value is used to take sample values for algorithms and to generate output.
+<p>6)this.tbSamples.Value is used to take sample values for algorithms and to generate output.</p>
 <p>7)cboAlg1 is a window forms combobox(dropdown) used to select algorithms.</p>
 <p>8)cboAlg2 is a window forms combobox(dropdown) used to select algorithms.</p>
 <p>10) InitializeOutputFolder() moves the output screens to output folder.</p>

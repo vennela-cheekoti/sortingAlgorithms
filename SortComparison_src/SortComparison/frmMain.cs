@@ -37,6 +37,7 @@ namespace SortComparison
             this.cboAlg1.BackColor=Color.Green;
             this.cboAlg2.BackColor=Color.Green;
             this.cmdShuffle.BackColor=Color.GreenYellow;
+            this.txtOutputFolder.ForeColor=Color.Red;
             this.InitializeOutputFolder();
             this.cmdShuffle.PerformClick();
 
