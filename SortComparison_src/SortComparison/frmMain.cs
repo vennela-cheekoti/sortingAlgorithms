@@ -35,6 +35,9 @@ namespace SortComparison
             this.cboAlg2.SelectedIndex=12;
             this.cmdShuffle.PerformClick();
             this.cmdSort.BackColor=Color.Blue;
+            this.cboAlg1.BackColor=Color.Green;
+            this.cboAlg2.BackColor=Color.Green;
+            this.cmdShuffle.BackColor=Color.GreenYellow;
 
         }
 
@@ -55,8 +58,8 @@ namespace SortComparison
 
         private void DrawSamples()
         {
-            g1.Clear(Color.White);
-            g2.Clear(Color.White);
+            g1.Clear(Color.LightPink);
+            g2.Clear(Color.LightPink);
 
             for (int i = 0; i < array1.Count; i++)
             {
