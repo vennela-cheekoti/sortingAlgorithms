@@ -33,11 +33,11 @@ namespace SortComparison
             this.tbSamples.Value = 500;
             this.cboAlg1.SelectedIndex=3;
             this.cboAlg2.SelectedIndex=12;
-            this.cmdShuffle.PerformClick();
             this.cmdSort.BackColor=Color.Blue;
             this.cboAlg1.BackColor=Color.Green;
             this.cboAlg2.BackColor=Color.Green;
             this.cmdShuffle.BackColor=Color.GreenYellow;
+            this.cmdShuffle.PerformClick();
 
         }
 
